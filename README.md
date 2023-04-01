@@ -1,8 +1,8 @@
 <img src="https://media4.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e47ixp1dggeu6gx1f30163a78rwt40ekm2z7qvuhm9v&rid=giphy.gif&ct=g" align="right" width="150px">
 
 ## Hey! I'm Mehmet. 
-### Android Developer
-#### I am currently developing my self on Flutter.
+### Software Developer
+#### I am currently developing my self on Flutter and .NET.
 
 
 ### You can also reach me :
