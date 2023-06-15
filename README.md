@@ -8,9 +8,7 @@
 
 
 ### You can also reach me :
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetocguder) 
 <a href="mailto:met.ocguder@gmail.com"><img  width="32" src="https://img.icons8.com/color/344/gmail-new.png" target="_blank" align="left" ></a>
 
 <br/>
