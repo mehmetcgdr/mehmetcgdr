@@ -9,7 +9,8 @@
 
 ### You can also reach me :
 
-[<img  width="32" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1672272000&v=beta&t=ei85Z6CHnJE8bkOHKPZMxXU69jWT4PSs-DuDFCm60rw" target="_blank" align="left">][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] 
+
 <a href="mailto:met.ocguder@gmail.com"><img  width="32" src="https://img.icons8.com/color/344/gmail-new.png" target="_blank" align="left" ></a>
 
 <br/>
@@ -23,7 +24,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mehmetcgdr&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mehmetcgdr&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetcgdr&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mehmetcgdr&limit=5&theme=dark&combine_all_yearly_contributions=true)
