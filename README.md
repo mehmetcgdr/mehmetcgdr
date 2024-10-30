@@ -27,3 +27,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetcgdr&show_icons=true&locale=en" alt="mehmetcgdr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetcgdr&" alt="mehmetcgdr" /></p>
+
+
+
+[linkedin]: https://www.linkedin.com/in/mehmetocguder
+[mail]: met.ocguder@gmail.com
